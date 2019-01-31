@@ -40,7 +40,9 @@
             <div class="content">
                 <div class="title">Laravel 5</div>
                 <div class="title">Laravel 6</div>
-                <div class="title">Laravel 6</div>
+                <div class="title">Laravel 7</div>
+                <div class="title">Laravel 8</div>
+                <div class="title">Laravel 9</div>
             </div>
         </div>
     </body>
